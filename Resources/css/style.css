@@ -67,7 +67,7 @@ nav{
 
 header {
     /* background: #ff6363; */
-    background-image: url(/Resources/img/BG.png);
+    background-image: url(Resources/img/BG.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
