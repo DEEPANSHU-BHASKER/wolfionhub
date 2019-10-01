@@ -162,6 +162,9 @@ header {
 .about-me-desc{
     padding: 40px;
 }
+.about-me-desc p{
+    line-height: 1.5;
+}
 
 .desc{
     margin-top: 30px;
