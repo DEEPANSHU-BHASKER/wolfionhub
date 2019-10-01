@@ -135,6 +135,64 @@ header {
     box-shadow: -1px 5px 8px rgb(26, 26, 26);
 }
 
+/* ======================================Section About Me========================================*/
+
+/* .About-me{
+    margin: 0 100px;
+} */
+
+.About-me{
+    height: 100vh;
+}
+
+.about-me-container{
+    padding-top: 90px;
+}
+
+.About-me img{
+    width: 300px;
+    height: auto;
+    border-radius: 20%;
+}
+.About-me h1{
+    font-size: 300%;
+    margin: 0 auto;
+}
+
+.about-me-desc{
+    padding: 40px;
+}
+
+.desc{
+    margin-top: 30px;
+}
+
+.about-me-container::after{
+    display: block;
+    height: 15px;
+    background-color: #ff6363;
+    content: " ";
+    width: 60%;
+    margin: 450px auto;
+    margin-bottom: 100px;
+}
+
+.skills{
+    text-align: center;
+}
+
+.skills h1{
+    margin-bottom: 30px;
+}
+.skills-1{
+    text-align: center;
+    font-weight: 500;
+}
+.skills-2{
+    text-align: center;
+    font-weight: 500;
+}
+
 
 
 
